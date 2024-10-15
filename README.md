@@ -17,7 +17,8 @@ This project analyzes the Superstore dataset, focusing on key insights about sal
 
 ### Project Structure
 - `/src`: Python scripts for data analysis.
-- `/data`: Sample dataset (Superstore.csv).
+- `/data`: The dataset used for this analysis is the Superstore dataset. Due to size/privacy limitations, the dataset is not included in this repository. However, you can download it by following the instructions in the `/data/data_instructions.txt` file.
+ 
 - `/visualizations`: Tableau dashboard screenshots.
 - `README.md`: Documentation for this project.
 - `LICENSE`: MIT License for open-source sharing.
