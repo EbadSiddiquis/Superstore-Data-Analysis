@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load Dataset
-superstore = '/path/to/Superstore.csv'
+superstore = './data/Superstore.csv'
 
 # Load the dataset from the file path
 df = pd.read_csv(superstore)
