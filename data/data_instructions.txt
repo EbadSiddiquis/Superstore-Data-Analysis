@@ -1,4 +1,4 @@
-# Instructions for Obtaining the Superstore Dataset
+- Instructions for Obtaining the Superstore Dataset
 
 The Superstore dataset used in this analysis can be downloaded from the following link:
 
