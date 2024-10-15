@@ -32,9 +32,3 @@ This project analyzes the Superstore dataset, focusing on key insights about sal
 - `LICENSE`: Open-source MIT License.
 - `.gitignore`: Ensures unnecessary files are not tracked in the repository.
 
-### Setup Instructions
-1. Clone this repository: `git clone https://github.com/EbadSiddiquis/Superstore-Data-Analysis.git`
-2. Navigate to the project folder: `cd Superstore-Data-Analysis`
-3. Ensure you have the required dependencies installed (use `requirements.txt` if applicable):
-   ```bash
-   pip install pandas
