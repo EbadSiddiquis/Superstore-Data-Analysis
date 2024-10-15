@@ -1,0 +1,11 @@
+# Instructions for Obtaining the Superstore Dataset
+
+The Superstore dataset used in this analysis can be downloaded from the following link:
+
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+After downloading the dataset:
+1. Place the `Superstore.csv` file in the `/data` folder of this project.
+2. Ensure the file name is exactly `Superstore.csv` for the code to run correctly.
+
+Once the dataset is placed in the `/data` folder, the scripts will automatically load the data.
