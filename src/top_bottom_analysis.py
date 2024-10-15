@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load Dataset
-superstore = '/path/to/Superstore.csv'
+superstore = './data/Superstore.csv'
 df = pd.read_csv(superstore)
 
 # 5. Top 10/Bottom 10 Analysis
